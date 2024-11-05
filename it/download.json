@@ -1,11 +1,11 @@
 {
   "postDownloadActionExecutor.zipExtraction/status": "Estrazione in corso...",
-  "finalizing": "Finalizzazione del download... (questo potrebbe richiedere alcuni momenti)",
+  "finalizing": "Finalizzazione del download... (questo potrebbe richiedere alcuni istanti)",
   "noOptions": "Non ci sono opzioni compatibili disponibili per il download",
 
   "deeplink/confirmation/title": "Scarica modello da Hugging Face 🤗",
   "deeplink/confirmation/subtitle": "{{modelName}}",
-  "deeplink/confirmation/selectRecommended": "Seleziona consigliato",
+  "deeplink/confirmation/selectRecommended": "Selezione consigliata",
   "deeplink/confirmation/selectOption": "Seleziona opzione di download",
   "deeplink/confirmation/recommendedOption": "Probabilmente la migliore opzione per la maggior parte degli utenti",
   "deeplink/confirmation/downloadButton": "Scarica",
